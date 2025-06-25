@@ -194,6 +194,9 @@ npm run build
 - **Component Architecture**: Modular, reusable component design
 - **Documentation**: Comprehensive inline and external documentation
 
+ ## Deployment
+ (https://DreamYadav.github.io/DATA-COMPRESSION-PORTAL/)
+
 ##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
